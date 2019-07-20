@@ -1,5 +1,6 @@
-def square_array(array)
- array.each do |iterated|
-   puts "#{iterated} ** 2"
+def square_array(numbers)
+  numbers = [1, 2, 3]
+ numbers.each do |number|
+   puts "#[number ** 2]"
 end
 end 
