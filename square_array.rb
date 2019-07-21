@@ -7,6 +7,6 @@ def square_array(numbers)
 end 
 
 
-
+###the block of code from do, to end, returns the original array.  However the method returns square_array
 
 square_array(numbers)
