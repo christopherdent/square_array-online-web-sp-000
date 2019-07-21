@@ -8,6 +8,6 @@ end
 
 
 
-###the block of code from do, to end, returns the original array.  However the method returns square_array
+###the block of code from do, to end, returns the original array.  However the method returns 1, 2, 3
 
 square_array(numbers)
