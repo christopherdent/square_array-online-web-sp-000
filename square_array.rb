@@ -2,9 +2,10 @@ numbers= [1, 2, 3]
 
 def square_array(numbers)
     numbers.each do |number|
-    return number ** 2
+    number ** 2
   end 
 end 
+
 
 
 ###the block of code from do, to end, returns the original array.  However the method returns square_array
